@@ -185,7 +185,7 @@ nav ul li a{
 
 
 
-
+/*Form style*/
 
 .myform {
     position: absolute;
@@ -206,7 +206,7 @@ nav ul li a{
 
 
 
-
+/* Table */
 
 table, td, th {
     border: 1px solid #ddd;
